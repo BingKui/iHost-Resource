@@ -1,0 +1,12 @@
+version: 0.0.2
+files:
+  - url: iHost-0.0.2-arm64-mac.zip
+    sha512: GDwbfd2sLZ5vpV5reAoqhwDc9ip02k+oJKgMl7PdWLE3v/wpaQTod/J9irVeVF4m0dYzsv9nL1YXHyDUbbuctg==
+    size: 87790863
+    blockMapSize: 91195
+  - url: iHost-0.0.2-arm64.dmg
+    sha512: mAzMCXLKtOeJlS3nsKf5rk5CzyghGkH+tPvtc1ySwGKCQUxdU6Fg8q/1YSEid3aG3ceC2b/JzKN3N/SKio0YHw==
+    size: 90725078
+path: iHost-0.0.2-arm64-mac.zip
+sha512: GDwbfd2sLZ5vpV5reAoqhwDc9ip02k+oJKgMl7PdWLE3v/wpaQTod/J9irVeVF4m0dYzsv9nL1YXHyDUbbuctg==
+releaseDate: '2021-09-03T14:47:43.578Z'
